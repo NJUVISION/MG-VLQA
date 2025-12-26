@@ -1,7 +1,5 @@
 # MG-VLQA: Multi-Granularity Quality Assessment for Image Compression via Visual Language Models
 
-**MG-VLQA**
-
 > An image quality assessment framework leveraging visual-language models for multi-granularity semantic fidelity.
 
 
