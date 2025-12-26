@@ -4,6 +4,13 @@
 
 > An image quality assessment framework leveraging visual-language models for multi-granularity semantic fidelity.
 
+
+
+<p align="center">
+  <img src="./figs/pipeline.png" alt="MG-VLQA Pipeline" width="800"/>
+</p>
+
+
 <p align="center">
 Hanfei Li<sup>1</sup> &nbsp;·&nbsp;
 Anle Ke<sup>1</sup> &nbsp;·&nbsp;
