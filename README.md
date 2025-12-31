@@ -24,3 +24,15 @@ Zhan Ma<sup>1</sup> &nbsp;·&nbsp;
 </p>
 
 
+## Quick Start
+
+### Prerequisites
+
+Before installing the dependencies, please prepare the model weights.
+
+Create the following directory structure in the project root:
+
+```text
+weights/
+├── Gemma/
+└── SAM/
